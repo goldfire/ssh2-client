@@ -45,7 +45,7 @@
   "homepage": "https://github.com/MatthieuLemoine/ssh2-client#readme",
   "dependencies": {
     "inquirer": "^6.2.0",
-    "ssh2": "^0.6.1"
+    "ssh2": "^1.16.0"
   },
   "devDependencies": {
     "eslint": "^5.6.1",
